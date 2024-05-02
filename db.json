@@ -1,0 +1,83 @@
+{
+    "users": [
+      {
+        "id": "o",
+        "password": "o",
+        "fullName": "o",
+        "financialData": [
+          {
+            "id": "1714572864384",
+            "amount": "768",
+            "type": "expense",
+            "date": "2024-05-23T14:14:00.000Z",
+            "description": "bus",
+            "category": "Utilities"
+          },
+          {
+            "id": "1714569787869",
+            "amount": "500",
+            "type": "expense",
+            "date": "2024-05-22T13:22:00.000Z",
+            "description": "bus",
+            "category": "Utilities"
+          },
+          {
+            "id": "1714569746318",
+            "amount": "500",
+            "type": "expense",
+            "date": "2024-05-14T13:22:00.000Z",
+            "description": "friend hjgzvhdkvgdzk dvgugvdgvuzgudkvbdkvbudbvugikszvgubzkbvgudgvyizuvbhzbhbcvhsvfjyavchzv hzhvhdzbvdhz",
+            "category": "Food"
+          },
+          {
+            "id": "1714569729384",
+            "amount": "20000",
+            "type": "income",
+            "date": "2024-05-09T13:22:00.000Z",
+            "description": "bus sjkfhuhcshc uhulijiawlhfla shfshzhshv ushudwhaihsiahzvjdhukvshucfgawlicujszcuvsdhduvfshfuschbujzdbvzhjvdgusfgeusiuahuffujbvz akfhuzhvkudahfusahvzuj SJABSHBKHZBKCJ VYSGYCVBJSZBZCKJSBGFKUCSGKVCSZKVBHKSGVCKYSAGCFYACJBSJZBCKZSVCSjcnakjsnfjkdsbvjsdbvkshcfjsKJCNjzsbvjdbv jkdzbcjsncjns",
+            "category": "Salary"
+          },
+          {
+            "id": "1714569675826",
+            "amount": "500",
+            "type": "expense",
+            "date": "2024-05-15T13:21:00.000Z",
+            "description": "",
+            "category": "Food"
+          },
+          {
+            "id": "1714498081927",
+            "amount": "6746",
+            "type": "expense",
+            "date": "2024-05-15T17:27:00.000Z",
+            "description": "",
+            "category": "Utilities"
+          },
+          {
+            "id": "1714498067812",
+            "amount": "54765",
+            "type": "income",
+            "date": "2024-05-23T17:27:00.000Z",
+            "description": "",
+            "category": "Investment"
+          },
+          {
+            "id": "1714494011395",
+            "amount": "7755",
+            "type": "income",
+            "date": "2024-05-09T16:19:00.000Z",
+            "description": "mm",
+            "category": "Investment"
+          },
+          {
+            "id": "1714488419146",
+            "amount": "4653",
+            "type": "expense",
+            "date": "2024-04-25T14:46:00.000Z",
+            "description": "fxdhchfbchgcxfb",
+            "category": "Transportation"
+          }
+        ]
+      }
+    ]
+  }
